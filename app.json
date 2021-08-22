@@ -1,14 +1,13 @@
 {
   "expo": {
-    "name": "Lab3",
-    "slug": "Lab3",
+    "name": "Lab6",
+    "slug": "Lab6",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon2.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/splash2.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#607d8b"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -26,7 +25,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon2.png"
     }
   }
 }
